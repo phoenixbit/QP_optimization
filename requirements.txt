@@ -1,0 +1,18 @@
+numpy==1.26.4
+scipy==1.13.0
+cvxpy==1.4.2
+
+# Quantum Gate-Based (QAOA)
+qiskit==1.1.0
+
+# Quantum Annealing (D-Wave)
+dwave-ocean-sdk==6.4.0
+
+# Notebook Environment
+jupyterlab==4.1.8
+notebook==7.2.0
+ipykernel==6.29.4
+
+# Visualization
+matplotlib==3.9.0
+plotly==5.22.0
